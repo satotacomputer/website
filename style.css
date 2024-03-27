@@ -15,6 +15,7 @@ a{
 div ul li{
     list-style-type: none;
     line-height: 30px;
+    color: #ffffff;
 }
 div ul li a{
     background-color: aqua;
